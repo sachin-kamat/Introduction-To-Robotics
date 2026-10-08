@@ -19,5 +19,12 @@ For a very detailed instructions follow this [link](https://randomnerdtutorials.
 
 ### Using esptool
 
+Firstlly install esptool.
+
+If you are using Windows:
+
+For Mac users:
+* pip3 install esptool (or brew install esptool)
+
 1) esptool erase flash
 2) esptool -c esp32s3 write-flash 0 ESP32_GENERIC_S3-20260824-v1.29.0.bin
