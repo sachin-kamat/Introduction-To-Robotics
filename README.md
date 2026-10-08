@@ -45,3 +45,10 @@ If the board isn’t responding to esptool at all, it may need to be manually re
 	2	Press “RESET” (or “RST”) and immediately release it.
 	3	Release “BOOT” (or “IO0”).
 	4	Re-run the flashing steps from the download page.
+
+
+### ESP32 pin diagram
+
+Refer to  [this](https://github.com/vcc-gnd/YD-ESP32-S3/blob/main/5-public-YD-ESP32-S3-Hardware%20info/ESP32-S3-0702%20(9).PNG)
+
+Or [this](https://github.com/vcc-gnd/YD-ESP32-S3/blob/main/5-public-YD-ESP32-S3-Hardware%20info/YD-ESP32-S3.PNG)
